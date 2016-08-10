@@ -1,6 +1,6 @@
 Example gitignore to exclude the following from source control:
 
-# Compiled source #
+Compiled source 
 ###################
 *.com
 *.class
@@ -9,7 +9,7 @@ Example gitignore to exclude the following from source control:
 *.o
 *.so
 
-# Packages #
+Packages
 ############
 *.7z
 *.dmg
@@ -20,13 +20,13 @@ Example gitignore to exclude the following from source control:
 *.tar
 *.zip
 
-# Logs and databases #
+Logs and databases
 ######################
 *.log
 *.sql
 *.sqlite
 
-# OS generated files #
+OS generated files
 ######################
 .DS_Store
 .DS_Store?
@@ -37,11 +37,12 @@ Icon?
 ehthumbs.db
 Thumbs.db
 
-# Sublime Text files
+Sublime Text files
+#####################
 *.sublime-project
 *.sublime-workspace
 
-# Sass Cache remove #
+Sass Cache remove
 #####################
 *.sass-cache
 
