@@ -46,9 +46,10 @@ Sass Cache remove
 #####################
 *.sass-cache
 
-# Middleman Specific #
+Middleman Specific
 #####################
 /.bundle
 
-# Ignore the build directory
+Ignore the build directory
+#####################
 /build
