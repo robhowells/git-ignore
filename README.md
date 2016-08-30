@@ -1,3 +1,4 @@
+#Gitignore
 Example gitignore to exclude the following from source control:
 
 #### Compiled source ####
