@@ -50,15 +50,18 @@ Thumbs.db
 # Ignore bundler config
 /.bundle
 
-# Ignore the build directory
+# Ignore the build directory #
+#####################
 #/build
 
-# Ignore Sass' cache
+# Ignore Sass' cache #
+#####################
 /.sass-cache
 
-# Ignore Map File
+# Ignore Map File #
+#####################
 *.map
 
-# Ignore the Node Modules folder
+# Ignore the Node Modules folder #
+#####################
 /node_modules
-/phantomas
