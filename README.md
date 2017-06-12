@@ -46,3 +46,12 @@ Thumbs.db
 
 #### Ignore the build directory ####
 /build
+
+#### Ignore Sass' cache ####
+/.sass-cache
+
+#### Ignore Map File ####
+*.map
+
+#### Ignore the Node Modules folder ####
+/node_modules
